@@ -1,1 +1,2 @@
 # sturdy
+ whats sturdy?
